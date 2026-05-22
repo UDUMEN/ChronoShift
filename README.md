@@ -16,7 +16,6 @@
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Build](#build)
-- [Team](#team)
 
 ---
 
