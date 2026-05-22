@@ -144,7 +144,7 @@ Assets/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ChronoShift.git
+   git clone https://github.com/UDUMEN/ChronoShift.git
    ```
 2. Open the project in **Unity Hub** using Unity version `6000.3.11f1`.
 3. Let Unity import all assets and packages.
